@@ -20,3 +20,8 @@ Pasos para subir un proyecto a Git:
 8. git push origin master
 
 9. Si haces cambion en el proyecto, repite los pasos 5, 6 y 8 para agregar, confirmar y subir tus cambios al repositorio Git.
+
+
+
+ ¿Qué ha ocurrido? Explica lo ocurrido en el archivo .md.
+ Se subieron los dos archivos: Readme.md y .gitignore, pero no los ficheros que son dentro de .gitignore
